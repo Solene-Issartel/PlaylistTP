@@ -1,0 +1,80 @@
+[
+  {
+    "trackName" : "That's Life",
+    "artworkUrl100" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/8b\/ef\/32\/8bef328f-2d1c-8422-8b0f-bf01f019a584\/source\/100x100bb.jpg",
+    "releaseDate" : "1969-05-01T12:00:00Z",
+    "collectionName" : "Gettin' Down to It",
+    "trackId" : 1443921474,
+    "artistName" : "James Brown"
+  },
+  {
+    "trackName" : "Shoot the Moon",
+    "artworkUrl100" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/f9\/18\/f7\/f918f73a-8531-12d9-b46f-b744e2e1c760\/source\/100x100bb.jpg",
+    "releaseDate" : "2002-02-26T08:00:00Z",
+    "collectionName" : "Come Away With Me (Deluxe Edition)",
+    "trackId" : 728317195,
+    "artistName" : "Norah Jones"
+  },
+  {
+    "trackName" : "Kozmic Blues",
+    "artworkUrl100" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music69\/v4\/bb\/02\/ac\/bb02acdd-8061-2f1e-5aa0-a2493039cc92\/source\/100x100bb.jpg",
+    "releaseDate" : "1969-09-11T07:00:00Z",
+    "collectionName" : "I Got Dem Ol' Kozmic Blues Again Mama!",
+    "trackId" : 1073650453,
+    "artistName" : "Janis Joplin"
+  },
+  {
+    "trackName" : "You Found Another Lover (I Lost Another Friend)",
+    "artworkUrl100" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/58\/c4\/ae\/58c4ae8e-9bb8-10c7-ba12-c48eb9928f75\/source\/100x100bb.jpg",
+    "releaseDate" : "2013-01-29T12:00:00Z",
+    "collectionName" : "Get Up! (Deluxe Version)",
+    "trackId" : 1445844382,
+    "artistName" : "Ben Harper & Charlie Musselwhite"
+  },
+  {
+    "trackName" : "Mean Mistreater",
+    "artworkUrl100" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music111\/v4\/14\/7a\/8a\/147a8a24-3191-108e-9cec-ba1c3c5f4131\/source\/100x100bb.jpg",
+    "releaseDate" : "2014-02-21T12:00:00Z",
+    "collectionName" : "True to the Blues: The Johnny Winter Story",
+    "trackId" : 775177929,
+    "artistName" : "Johnny Winter"
+  },
+  {
+    "trackName" : "Blue Valentines",
+    "artworkUrl100" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/47\/52\/7c\/47527c02-59ff-af9c-9b62-a2c44e3c8765\/source\/100x100bb.jpg",
+    "releaseDate" : "1978-10-01T12:00:00Z",
+    "collectionName" : "Used Songs (1973 - 1980)",
+    "trackId" : 1485075829,
+    "artistName" : "Tom Waits"
+  },
+  {
+    "trackName" : "Little Wing",
+    "artworkUrl100" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/7b\/86\/57\/7b865784-1f89-5a11-e079-c053e4c79ec9\/source\/100x100bb.jpg",
+    "releaseDate" : "1991-11-05T08:00:00Z",
+    "collectionName" : "The Essential Stevie Ray Vaughan and Double Trouble",
+    "trackId" : 193064508,
+    "artistName" : "Stevie Ray Vaughan & Double Trouble"
+  },
+  {
+    "trackName" : "The Thrill Is Gone (feat. Tracy Chapman)",
+    "artworkUrl100" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/27\/1c\/ec\/271cecf3-e880-9b2e-bcaf-060485d12d42\/source\/100x100bb.jpg",
+    "releaseDate" : "1997-11-03T12:00:00Z",
+    "collectionName" : "Deuces Wild",
+    "trackId" : 1423331216,
+    "artistName" : "B.B. King"
+  },
+  {
+    "artworkUrl100" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/23\/f6\/6e\/23f66eea-3818-0add-c4ff-de84f5f31c2b\/source\/100x100bb.jpg",
+    "releaseDate" : "1992-01-01T08:00:00Z",
+    "collectionName" : "The Best of John Lee Hooker 1965 to 1974",
+    "collectionId" : 1440719230,
+    "artistName" : "John Lee Hooker"
+  },
+  {
+    "artworkUrl100" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/4e\/95\/02\/4e9502ac-a895-ed02-c26a-c3a24c27bf56\/source\/100x100bb.jpg",
+    "releaseDate" : "2004-05-18T07:00:00Z",
+    "collectionName" : "Hard Again",
+    "collectionId" : 198155305,
+    "artistName" : "Muddy Waters"
+  }
+]
